@@ -1,0 +1,25 @@
+BUILD REQUEST INFO:
+SW Version: sanders_retid-user 8.1.0 OPS28.65-36-11 431cb release-keysM8953_46.55.07.90R
+MBM Version: C2.12
+Modem Version: M8953_46.55.07.90R
+FSG Version: FSG-8953-09.85
+Build Fingerprint: motorola/sanders_retid/sanders:8.1.0/OPS28.65-36-11/431cb:user/release-keys
+CQATest App Version: 6.0.4
+
+VERSION INFO FOUND UNDER 'ABOUT PHONE' SCREEN:
+System Version: 28.241.8.sanders_retid.retid.en.US
+Model Number: Moto G (5S) Plus
+Android Version: 8.1.0
+Baseband Version: M8953_46.55.07.90R
+Build Id: OPS28.65-36-11
+SW Display Build ID: OPS28.65-36-11
+Build Date: Fri Apr 26 13:17:18 CDT 2019
+
+OTHER MISC VERSION INFO:
+Subsidy Lock Config: slcf_rev_d_default_v1.0.nvm
+Regulatory Info (eLabel): regulatory_info_default.png
+Blur Version: Blur_Version.28.241.8.sanders_retid.retid.en.US
+Version when read from CPV: sanders_retid-user 8.1.0 OPS28.65-36-11 431cb release-keys
+
+AB Update Enabled: False
+Full Treble Enabled: False
